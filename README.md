@@ -56,3 +56,9 @@ por último, en Parametro Maping agregamos la variable FechaIni:
 <img src="https://github.com/csantamaria89/Carga_Incremental_Diaria_Con_Parametro/blob/main/Assets/Imagen5.png"  height=350>
 </p>
 
+5. Ahora crearemos un Data Flow Task, el cual llamaremos Carga Data Fecha en Curso:
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Carga_Incremental_Diaria_Con_Parametro/blob/main/Assets/Imagen6.png"  height=350>
+</p>
+
