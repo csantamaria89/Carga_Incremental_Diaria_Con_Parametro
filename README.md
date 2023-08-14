@@ -6,9 +6,12 @@ Se tiene un conjunto de dataset en archivos de Excel. Lo que se requiere es que 
 
 1. En una carpeta alojaremos los archivos de Excel, estos los puedes enconntrar en el repositorio:
 
+<p align="center">
+<img src="https://github.com/csantamaria89/Carga_Incremental_Diaria_Con_Parametro/blob/main/assets/Imagen1.png"  height=150>
+</p>
    
 
-3. 
+```shell
 CREATE TABLE ACCIDENTES(
 Periodo INT,
 NumeroRegistro INT,
@@ -20,3 +23,4 @@ ReporteLocasion VARCHAR(MAX),
 Latitud VARCHAR(MAX),
 Longitud VARCHAR(MAX)
 )
+```
