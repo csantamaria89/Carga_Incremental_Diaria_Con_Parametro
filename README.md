@@ -39,3 +39,8 @@ Latitud VARCHAR(MAX),
 Longitud VARCHAR(MAX)
 )
 ```
+En la ventana de Control Flow agregamos una caja de Execute SQL Task, la cual llamaremos Limpiar Fecha de Carga. Posteriormente configuraremos la conexión con la BD MONROE.
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Carga_Incremental_Diaria_Con_Parametro/blob/main/Assets/Imagen3.png"  height=450>
+</p>
